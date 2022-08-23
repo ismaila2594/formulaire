@@ -1,0 +1,27 @@
+form {
+    border: 2px solid rgb(212, 26, 26);
+    padding: 10px;
+    margin: 10px;
+    background-color: bisque;
+    
+}
+
+input {
+    border: 1px solid rgb(212, 26, 26);
+    padding: 10px;
+    margin: 10px;
+    background-color: bisque;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    border: 2px solid rgb(212, 26, 26);
+    
+}
+
+li {
+    margin: 10px;
+}
